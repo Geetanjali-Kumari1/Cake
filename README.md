@@ -1,9 +1,3 @@
-# Cake (For Web Analytics Project)
-
-
-
-
-
 # Cake O Clock
 
 # Project Name: Cake O'Clock
